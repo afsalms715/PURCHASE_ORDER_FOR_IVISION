@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PURCHASE_ORDER_IN_IVISION(1
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50473"
+		SlnRelativePath = "..\..\..\..\..\inetpub\wwwroot\PURCHASE_ORDER_IN_IVISION\"
 	EndProjectSection
 EndProject
 Global
